@@ -1,9 +1,13 @@
 
 #entrance {
   text-decoration-color: white;
-  text-color: black;
+  color: black;
 }
 
 #entrance:hover {
-  text-color: black;
+  color: black;
+}
+
+#entrance:active {
+  color: black;
 }
