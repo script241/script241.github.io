@@ -1,1 +1,9 @@
 
+#entrance {
+  text-decoration-color: white;
+  text-color: black;
+}
+
+#entrance:hover {
+  text-color: black;
+}
